@@ -4,4 +4,4 @@
 
 ## List Of Scripts
 
-### 1. replace.py - used to replace a particular word with another for every file in the repository is in.
+### 1. replace.py - used to replace a particular word with another for every file in directory.
